@@ -35,6 +35,16 @@
 - 仓库内的图片 demo  
 ![][linux_logo]
 
+### 图片大小限制
+`<img src="./xxx.png" width = "300" height = "200" alt="图片名称" align=center />`
+
+修改 `width` 和 `height` 即可。  
+`src=" "` 的值可以是相对目录(`./xxx.png`)，也可以是外部链接(`http://xx/xxx.png`)，但不可以这样使用`![baidu][baidu_logo]`
+
+例如：
+
+<img src="images/Linux.png" width="600" height="600" alt="编译器和连接器" align=center />
+
 
 ## 引用 demo
 
