@@ -45,6 +45,12 @@
 
 <img src="images/Linux.png" width="600" height="600" alt="编译器和连接器" align=center />
 
+附：如果需要居中的话只要在外面包围div标签即可
+```
+<div  align="center">    
+...
+</div>
+```
 
 ## 引用 demo
 
